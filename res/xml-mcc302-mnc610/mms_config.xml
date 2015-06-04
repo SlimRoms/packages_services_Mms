@@ -49,4 +49,5 @@
 
     <!-- Disable SMS to MMS conversion for multiple recipient SMS -->
     <bool name="enableGroupMms">false</bool>
+    <bool name="config_cellBroadcastAppLinks">false</bool>
 </mms_config>
